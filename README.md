@@ -1,6 +1,6 @@
 <h1>Hello, world</h1>
 
-```
+```js
 import WebDeveloper from 'courtney-farzam'
 
 class Bio extends WebDeveloper {
