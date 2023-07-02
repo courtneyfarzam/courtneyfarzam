@@ -6,7 +6,7 @@
 </div>
 
 <p align='center'>
-	<a href=''>Portfolio</a> • <a href='https://www.linkedin.com/in/courtneyfarzam/'>LinkedIn</a>
+	<a href='https://courtneyfarzam.netlify.app/'>Portfolio</a> • <a href='https://www.linkedin.com/in/courtneyfarzam/'>LinkedIn</a>
 </p>
 
 ```js
