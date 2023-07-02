@@ -3,7 +3,7 @@
 	<a href=''>Portfolio</a> | <a href='https://www.linkedin.com/in/courtneyfarzam/'>LinkedIn</a>
 </p>
 
-<div align='center'>
+<div>
 	<p>🔭 I’m currently looking for career opportunities in web development</p>
 	<p>🌱 I’m currently learning more on Next.js</p>
 	<p>📫 Email me: courtneyfarzam@gmail.com</p>
