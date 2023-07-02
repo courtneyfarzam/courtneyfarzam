@@ -16,7 +16,7 @@ class Bio extends WebDeveloper {
 	this.name = 'Courtney Farzam';
 	this.title = 'Full Stack Developer';
 	this.location = 'Nashville, TN';
-	this.funFact = 'I never lose thumb wars'
+	this.funFact = 'I never lose thumb wars';
 }
 
 class Skills extends WebDeveloper {
