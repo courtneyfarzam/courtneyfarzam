@@ -1,4 +1,4 @@
-<h1 align='center'>Hello, world! I'm Courtney 👋🏼👩🏼‍💻</h1>
+<h1 align='center'>Hello, world. I'm Courtney👋🏼</h1>
 
 
 <div align='center'>
@@ -6,7 +6,7 @@
 </div>
 
 <p align='center'>
-	<a href=''>Portfolio</a> | <a href='https://www.linkedin.com/in/courtneyfarzam/'>LinkedIn</a>
+	<a href=''>Portfolio</a> • <a href='https://www.linkedin.com/in/courtneyfarzam/'>LinkedIn</a>
 </p>
 
 <div>
