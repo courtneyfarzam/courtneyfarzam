@@ -24,6 +24,6 @@ class Skills extends WebDeveloper {
 	this.hobbies = [ 'Gaming', 'Manga/Manhwa', 'Digital Art', 'Travel', 'My Pets'  ]
 }
 ```
-<div align="center">
+<div style='width: auto; height: 200px;'>
 	<img src="https://github.com/courtneyfarzam/courtneyfarzam/blob/main/keyboard.gif" alt="cute anime girl">
 </div>
