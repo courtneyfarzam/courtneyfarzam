@@ -8,6 +8,10 @@
 - 📫 Email me: courtneyfarzam@gmail.com
 - :zap: Fun fact: I never lose thumbwars
 
+<div>
+	<img src="https://github.com/courtneyfarzam/courtneyfarzam/blob/main/keyboard.gif" alt="cute anime girl" style='width: auto; height: 200px;'>
+</div>
+
 ```js
 import WebDeveloper from 'courtney-farzam'
 
@@ -24,6 +28,3 @@ class Skills extends WebDeveloper {
 	this.hobbies = [ 'Gaming', 'Manga/Manhwa', 'Digital Art', 'Travel', 'My Pets'  ]
 }
 ```
-<div>
-	<img src="https://github.com/courtneyfarzam/courtneyfarzam/blob/main/keyboard.gif" alt="cute anime girl" style='width: auto; height: 200px;'>
-</div>
