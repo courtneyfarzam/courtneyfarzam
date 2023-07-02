@@ -1,4 +1,4 @@
-<h1>Hello, world. I'm Courtney 👋🏼👩🏼‍💻</h1>
+<h1>Hello, world 👋🏼👩🏼‍💻</h1>
 <p>
 	<a href=''>Portfolio</a> | <a href='https://www.linkedin.com/in/courtneyfarzam/'>LinkedIn</a>
 </p>
@@ -24,6 +24,6 @@ class Skills extends WebDeveloper {
 	this.hobbies = [ 'Gaming', 'Manga/Manhwa', 'Digital Art', 'Travel', 'My Pets'  ]
 }
 ```
-<div style='width: 100px; height: 100px;'>
-	<img src="https://github.com/courtneyfarzam/courtneyfarzam/blob/main/keyboard.gif" alt="cute anime girl">
+<div>
+	<img src="https://github.com/courtneyfarzam/courtneyfarzam/blob/main/keyboard.gif" alt="cute anime girl" style='width: auto; height: 100px;'>
 </div>
