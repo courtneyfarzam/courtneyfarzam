@@ -1,4 +1,8 @@
-<h1>Hello, world</h1>
+<h1>Hello, world. I'm Courtney 👋🏼👩🏼‍💻</h1>
+<p>
+	<a href=''>Portfolio</a>
+	<a href='https://www.linkedin.com/in/courtneyfarzam/'>LinkedIn</a>
+</p>
 
 ```js
 import WebDeveloper from 'courtney-farzam'
