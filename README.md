@@ -1,12 +1,13 @@
 <h1 align='center'>Hello, world! I'm Courtney 👋🏼👩🏼‍💻</h1>
-<p align='center'>
-	<a href=''>Portfolio</a> | <a href='https://www.linkedin.com/in/courtneyfarzam/'>LinkedIn</a>
-</p>
 
 
 <div align='center'>
 	<img src="https://github.com/courtneyfarzam/courtneyfarzam/blob/main/keyboard.gif" alt="cute anime girl" style='width: auto; height: 200px;'>
 </div>
+
+<p align='center'>
+	<a href=''>Portfolio</a> | <a href='https://www.linkedin.com/in/courtneyfarzam/'>LinkedIn</a>
+</p>
 
 <div>
 	<p>🔭 I’m currently looking for career opportunities in web development</p>
