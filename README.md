@@ -25,5 +25,5 @@ class Skills extends WebDeveloper {
 }
 ```
 <div>
-	<img src="https://github.com/courtneyfarzam/courtneyfarzam/blob/main/keyboard.gif" alt="cute anime girl" style='width: auto; height: 100px;'>
+	<img src="https://github.com/courtneyfarzam/courtneyfarzam/blob/main/keyboard.gif" alt="cute anime girl" style='width: auto; height: 200px;'>
 </div>
